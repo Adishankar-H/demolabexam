@@ -19,7 +19,7 @@ public class ThreeNumbersSum {
 	double average = (double) sum / 3;
 
         System.out.println("The sum of the largest number is: " + (sum - largest));
-	System.out.println("The average of the three numbers is: " + average);	
+	//System.out.println("The average of the three numbers is: " + average);	
 
         input.close();
     }
